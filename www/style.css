@@ -1,0 +1,27 @@
+div{
+    text-align: center ;
+}
+
+div.mainbody {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 1.1em ;
+    width: 900px ;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 10px ;
+    /*background-color: white ;*/
+    color: black ;
+    border: 1px solid black ;
+}
+
+div.mainbody p{
+    text-align: left;
+}
+
+strong{
+    font-size: 1.4em;
+}
+
+#copyright{
+    text-align: right;
+}
